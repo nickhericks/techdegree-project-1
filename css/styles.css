@@ -110,11 +110,6 @@ body {
     font-size: .5rem;
   }
   .button-box {
-    border: 2px solid blue;
-    position: absolute;
-    bottom: 20%;
-    left: 10%;
-    right: 10%;
-    line-height: .5;
+    bottom: 10%;
   }
 }
