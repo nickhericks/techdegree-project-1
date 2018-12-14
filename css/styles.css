@@ -97,6 +97,9 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+  #quote-box {
+    top: 10%;
+  }
   .quote {
     font-size: 2.5rem;
   }
