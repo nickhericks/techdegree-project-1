@@ -51,13 +51,13 @@ function getRandomQuote(array) {
 
 // Update background to random color
 function updateBackgroundColor() {
-  // Get random hex color. This line from
+  // Get random hex color. This line of code from
   // https://css-tricks.com/snippets/javascript/random-hex-color/
   var randomColor = Math.floor(Math.random()*16777215).toString(16);
   body.style.backgroundColor = `#${randomColor}`;
 }
 
-// Get random quote, build message and print to page
+// Build message and print to page
 function printQuote() {
   let message = "";
   let quoteObject = getRandomQuote(quotes);
@@ -90,7 +90,7 @@ function printQuote() {
 // Display random quote on initial page load
 printQuote();
 
-// Automatically update quote every 3 seconds
+// Automatically update quote
 window.setInterval(printQuote, 10000);
 
 // Display new random quote when button is clicked
