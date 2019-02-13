@@ -1,11 +1,11 @@
 # Random Quote Generator
 > This project displays random quotes to the page either every 10 seconds or when a user clicks the button.
 
-## Project Objective
-Building this project allowed me to practice using basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.
-
 ## View project
  :mag: Live version available at [nickhericks.github.io/techdegree-project-1/](https://nickhericks.github.io/techdegree-project-1/)
+
+ ## Project objective
+ Building this project allowed me to practice using basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.
 
 <!-- ## Features
 What makes your project stand out? (screenshots if beneficial)
@@ -24,5 +24,5 @@ Show what the library does as concisely as possible, developers should be able t
 ## Acknowledgements
 This project was built as part of the [Full Stack JavaScript Techdegree](https://join.teamtreehouse.com/techdegree/) offered by [Treehouse](https://teamtreehouse.com) :raised_hands:
 
-## Demo
-<img src="https://res.cloudinary.com/dtqevfsxh/image/upload/c_scale,w_500/v1550086727/portfolio/random-quote-generator.png">
+## Screenshot
+<img src="https://res.cloudinary.com/dtqevfsxh/image/upload/v1550086727/portfolio/random-quote-generator.png">
