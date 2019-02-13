@@ -1,6 +1,6 @@
 # Project 1 - Full Stack JavaScript Techdegree
 
-## Random Quote Generator
+### Random Quote Generator
 This project displays random quotes to the page when a user clicks the button.
 
 ***
