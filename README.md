@@ -1,5 +1,5 @@
 # Project 1 - Full Stack JavaScript Techdegree
-### Random Quote Generator
+> ### Random Quote Generator
 > This project displays random quotes to the page when a user clicks the button.
 
 ***
@@ -13,7 +13,7 @@
  Building this project allowed me to practice using basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.
 
 ## Features
-In addition to completing the basic requirements for this techdegree project, I also achieved the 'exceeds expectations' grade by building out additional JavaScript functionality such as:
+In addition to completing the basic requirements for this techdegree project, I also added features by building out additional JavaScript functionality such as:
 
 - [x] Quote automatically updated at 10 second intervals
 - [x] Additional object properties are conditionally displayed
@@ -21,9 +21,9 @@ In addition to completing the basic requirements for this techdegree project, I 
 
 ## Code example
 An example of one of the JavaScript functions in this project:
-1. The getRandomQuote function below takes an array of objects as an argument.
-2. The array's length is used to generate a random number within the range of the array's index.
-3. The number is then used to select a random object within the array, which the function then returns.
+- getRandomQuote function accepts an array of objects as an argument.
+- The array's length is used to generate a random number within the range of the array's index.
+- The number is used to select a random object within the array, which the function then returns.
 
 ```javascript
 function getRandomQuote(array) {
