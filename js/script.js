@@ -112,7 +112,7 @@ const quotes = [
 
 // Generate random number and return random quote object
 function getRandomQuote(array) {
-  let randomNum = Math.floor(Math.random() * quotes.length);
+  let randomNum = Math.floor(Math.random() * array.length);
   let randomQuote = array[randomNum];
   return randomQuote;
 }
