@@ -10,11 +10,11 @@ This project displays a random quote to the page when the user clicks the button
 ## View project
  :mag: Live version available at [nickhericks.github.io/techdegree-project-1/](https://nickhericks.github.io/techdegree-project-1/)
 
- ## Project objective
- Building this project allowed me to practice using basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.
+## Project objective
+Building this project allowed me to practice using basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.
 
 ## Features
-In addition to completing the basic requirements for this techdegree project, I also added features by building out additional JavaScript functionality such as:
+In addition to completing the basic requirements for this techdegree project, I also built additional features and functionality using JavaScript such as:
 
 - [x] Quote automatically updated at 10 second intervals
 - [x] Additional object properties are conditionally displayed
@@ -22,7 +22,7 @@ In addition to completing the basic requirements for this techdegree project, I 
 
 ## Code example
 An example of one of the JavaScript functions in this project:
-1. getRandomQuote function accepts an array of objects as an argument.
+1. getRandomQuote function takes an array of objects as an argument.
 2. The array's length is used to generate a random number that falls within the range of the array's index.
 3. The number is used to select a random object within the array.
 4. getRandomQuote returns the random object.
