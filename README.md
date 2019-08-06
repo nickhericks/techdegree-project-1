@@ -4,11 +4,12 @@
 This project displays a random quote to the page when the user clicks the button.
 
 ***
-
-<img src="https://res.cloudinary.com/dtqevfsxh/image/upload/v1550087279/portfolio/random-quote-generator-mobile.png" height="400px"><img src="https://res.cloudinary.com/dtqevfsxh/image/upload/v1550086727/portfolio/random-quote-generator.png" height="400px">
-
 ## View project
  :mag: Live version available at [nickhericks.github.io/techdegree-project-1/](https://nickhericks.github.io/techdegree-project-1/)
+
+
+
+<img src="https://res.cloudinary.com/dtqevfsxh/image/upload/v1550087279/portfolio/random-quote-generator-mobile.png" height="400px"><img src="https://res.cloudinary.com/dtqevfsxh/image/upload/v1550086727/portfolio/random-quote-generator.png" height="400px">
 
 ## Project objective
 Building this project allowed me to practice using basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.
